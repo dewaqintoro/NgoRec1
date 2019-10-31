@@ -1,6 +1,16 @@
 .awak{
-  margin-top: 100px;
+  margin: 100px 0px;
 }
+
+.col h2{
+  font-size: 2rem;
+  color: rgb(0, 162, 255);
+}
+
+.col p{
+  color: rgb(17, 60, 199);
+}
+
 .col img{
   width: 200px;
 }
