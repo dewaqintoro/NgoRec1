@@ -8,7 +8,6 @@ class Ndas extends Component{
           <div className='ndas'>
 						<h1>The Only way to do something desireable</h1>
             <h3>supporting statement to estabilish creditibility</h3>
-            <div className='delimiter'/>
           </div>
 			)    
 		}
