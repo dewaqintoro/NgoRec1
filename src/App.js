@@ -1,14 +1,12 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
 import Header from './Component/Header'
-import Body1 from './Component/Body1'
-import Body2 from './Component/Body2';
-import Footer from './Component/Footer';
-import Ndas from './Component2/Ndas';
-import Awak from './Component2/Awak';
-import Galery from './Component2/Galery';
-import Sikel from './Component2/Sikel';
+import Body from './Component/Body'
+import Footer from './Component/Footer'
+import Ndas from './Component2/Ndas'
+import Awak from './Component2/Awak'
+import Galery from './Component2/Galery'
+import Sikel from './Component2/Sikel'
 
 function App() {
   return (
@@ -16,8 +14,7 @@ function App() {
       <div className="App">
         <div className="template1">
           <Header/>
-          <Body1/>
-          <Body2/>
+          <Body/>
           <Footer/>
         </div>
 
