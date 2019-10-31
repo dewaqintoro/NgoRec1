@@ -8,6 +8,7 @@ import Footer from './Component/Footer';
 import Ndas from './Component2/Ndas';
 import Awak from './Component2/Awak';
 import Galery from './Component2/Galery';
+import Sikel from './Component2/Sikel';
 
 function App() {
   return (
@@ -25,6 +26,7 @@ function App() {
           <Ndas/>
           <Awak/>
           <Galery/>
+          <Sikel/>
         </div>
       </div>
     </div>
