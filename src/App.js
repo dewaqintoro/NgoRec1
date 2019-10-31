@@ -5,15 +5,25 @@ import Header from './Component/Header'
 import Body1 from './Component/Body1'
 import Body2 from './Component/Body2';
 import Footer from './Component/Footer';
+import Ndas from './Component2/Ndas';
+import Awak from './Component2/Awak';
 
 function App() {
   return (
     <div className="container">
       <div className="App">
-        <Header/>
-        <Body1/>
-        <Body2/>
-        <Footer/>
+        <div className="template1">
+          <Header/>
+          <Body1/>
+          <Body2/>
+          <Footer/>
+        </div>
+
+        <div className="template2">
+          <h2>Template 2</h2>
+          <Ndas/>
+          <Awak/>
+        </div>
       </div>
     </div>
   );
