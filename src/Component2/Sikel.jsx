@@ -19,7 +19,7 @@ class Sikel extends Component{
 						<div className="col-sm-2">&nbsp;</div>
 
 						<div className="col-sm-4 kiri">
-							<div class="w3-card-4 w3-dark-grey">
+							<div class="w3-card-4">
 								<div class="w3-container w3-center">
 									<img src={Icon} alt=""/>
 									<h5>John Doe</h5>
@@ -30,7 +30,7 @@ class Sikel extends Component{
 						</div>
 
 						<div className="col-sm-4 kanan">
-							<div class="w3-card-4 w3-dark-grey">
+							<div class="w3-card-4">
 								<div class="w3-container w3-center">
 									<img src={Icon} alt=""/>
 									<h5>John Doe</h5>
