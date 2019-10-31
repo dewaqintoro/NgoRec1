@@ -1,0 +1,48 @@
+
+.body2{
+    color: green;
+    text-align: left;
+    background: white;
+    padding: 50px 0;
+
+}
+
+.img2 {
+    display:inline-block;
+    width: 100px;
+    height: 10%;
+}
+
+.img2 img{
+    height: 90px;
+    margin: 20px 0;
+    text-align: left;
+    display: inline-block;
+    margin-left: 40px;
+}
+
+.par2{
+    float:left;
+    display:inline-block;
+    width: -moz-calc(100% - 100px);
+    width: -webkit-calc(100% - 100px);
+    width: calc(100% - 120px);
+    height: 10%;
+}
+
+.par2 h3 {
+    text-transform: uppercase;
+}
+
+.par2 .delimiter{
+    height: 5px;
+    border-radius: 5px;
+    width: 7rem;
+    background-color: #1565c0;
+    bottom: 40px;
+    top: 20px;
+    right: 0;
+    left: 0;
+    margin: 0;
+
+}

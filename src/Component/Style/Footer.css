@@ -1,0 +1,18 @@
+.footer{
+    background: lightseagreen;
+    color: blue;
+}
+ul#menu {
+    background: #e4f2f8;
+    padding: 10px 0px;
+}
+
+ul#menu li {
+    display:inline;
+    padding: 0px 40px;
+    text-decoration: none;
+  }
+
+  ul#menu li a{
+    text-decoration: none;
+  }
