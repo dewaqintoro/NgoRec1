@@ -9,10 +9,18 @@
     max-height: 200px;
 }
 
-img{
+.w3-center img{
     /* max-height: 140px;
      */
-		 /* padding: 20px 0px; */
+		 margin: 8px 0px;
 		 width: 204.5px;
 		 height: 256px;
+}
+
+.sikelsos {
+	margin-bottom: 30px;
+}
+
+.w3-card-4{
+	background: #ddf2fc;
 }
